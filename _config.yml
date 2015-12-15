@@ -1,7 +1,7 @@
 name: victortang
 favicon: null
-layout_spectrum: 0.8050983548164368
-typography_spectrum: 0.5324203441850841
+layout_spectrum: 1
+typography_spectrum: 0.46083
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.9463480112608522
-  lightness: 0.524955369764939
-  saturation: 0.640868169022724
-  rhythmicContrast: 0.4693492071237415
+  brandStrength: 0.9375
+  lightness: 0.6875
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
